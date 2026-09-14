@@ -1,0 +1,26 @@
+{
+  "dataset_name": "AX ERP Prototype Dataset",
+  "target_url": "http://127.0.0.1:8000/",
+  "description": "PLM + ERP + MES + WMS + QMS + SCM + EIS + AI Agent prototype seed dataset for electronic components and small appliance manufacturing.",
+  "tables": {
+    "companies.csv": 4,
+    "plants.csv": 5,
+    "warehouses.csv": 8,
+    "customers.csv": 6,
+    "vendors.csv": 8,
+    "materials.csv": 15,
+    "bom_items.csv": 25,
+    "demand_forecast.csv": 60,
+    "sales_orders.csv": 216,
+    "purchase_orders.csv": 264,
+    "inventory_snapshot.csv": 45,
+    "production_orders.csv": 180,
+    "production_results.csv": 180,
+    "quality_inspections.csv": 180,
+    "shipments.csv": 124,
+    "finance_summary.csv": 12,
+    "kpi_monthly.csv": 12,
+    "ai_recommendations.csv": 5
+  },
+  "encoding": "UTF-8-SIG CSV"
+}

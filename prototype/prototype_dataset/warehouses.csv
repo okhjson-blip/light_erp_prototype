@@ -1,0 +1,9 @@
+﻿warehouse_code,plant_code,warehouse_name,warehouse_type,status
+KR11-RM,KR11,Korea Factory 1 RM Warehouse,RM,ACTIVE
+KR11-FG,KR11,Korea Factory 1 FG Warehouse,FG,ACTIVE
+VN11-RM,VN11,Vietnam Factory RM Warehouse,RM,ACTIVE
+VN11-FG,VN11,Vietnam Factory FG Warehouse,FG,ACTIVE
+CN11-RM,CN11,China Factory RM Warehouse,RM,ACTIVE
+CN11-FG,CN11,China Factory FG Warehouse,FG,ACTIVE
+US11-RM,US11,USA DC RM Warehouse,RM,ACTIVE
+US11-FG,US11,USA DC FG Warehouse,FG,ACTIVE

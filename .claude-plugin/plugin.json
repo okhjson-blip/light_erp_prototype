@@ -1,0 +1,6 @@
+{
+  "id": "project-agent-plugin",
+  "name": "Project Agent Plugin",
+  "version": "1.0.0",
+  "description": "Project-specific agent distribution plugin including custom skills and rules."
+}

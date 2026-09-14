@@ -1,0 +1,6 @@
+﻿recommendation_id,agent,created_at,title,summary,confidence,impact,status,target_module
+AI-REC-001,AI Demand Planner,2026-12-02,FG-1002 1월 수요 증가 예상,최근 3개월 판매 증가와 계절성으로 1월 수요가 18% 증가할 가능성이 높습니다.,0.82,HIGH,PENDING_APPROVAL,SCM
+AI-REC-002,AI Buyer,2026-12-05,RM-0004 Battery Cell 대체 공급사 검토,VEND-007 등급 C 및 납기 지연 가능성으로 대체 공급사 소싱이 필요합니다.,0.76,HIGH,APPROVED,MM
+AI-REC-003,AI Scheduler,2026-12-08,VN11 Line-03 병목 완화 스케줄 제안,FG-2002 생산을 Line-02로 일부 이전하면 OEE 4.1%p 개선 가능성이 있습니다.,0.79,MEDIUM,PENDING_APPROVAL,PP
+AI-REC-004,AI Quality Engineer,2026-12-10,FG-1001 출하검사 PPM 상승 원인 분석,RM-0002 Motor Lot의 결함률이 상승하여 조기 CAPA가 필요합니다.,0.86,HIGH,IN_REVIEW,QM
+AI-REC-005,AI CFO Copilot,2026-12-12,영업이익률 하락 원인 설명,COGS 상승과 긴급 항공 운송비 증가가 주요 원인입니다.,0.81,MEDIUM,APPROVED,FI/CO

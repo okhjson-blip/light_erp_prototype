@@ -1,0 +1,9 @@
+.venv
+__pycache__
+*.pyc
+app/erp.db
+tests
+.github
+*.md
+frontend/node_modules
+frontend/dist

@@ -1,0 +1,5 @@
+﻿company_code,company_name,country,currency,company_type
+KR01,Korea HQ,KR,KRW,HQ
+VN01,Vietnam Plant,VN,VND,Manufacturing
+CN01,China Plant,CN,CNY,Manufacturing
+US01,USA Sales Office,US,USD,Sales

@@ -1,0 +1,61 @@
+# ============================================================
+# AX-ERP .gitignore
+# 2026-08-31 Windows 이행 시 보강.
+# 이전에는 '.DS_Store' 한 줄뿐이어서 macOS 가상환경(.venv) 3,694개 파일이
+# 저장소에 그대로 커밋되어 있었다. 플랫폼 종속 산출물은 추적하지 않는다.
+# ============================================================
+
+# --- 자격증명·비밀 (절대 커밋 금지) ---
+.env
+.env.*
+!.env.example
+CLAUDE.local.md
+.claude/settings.local.json
+*.pem
+*.key
+secrets/
+
+# --- Python 가상환경·캐시 (플랫폼 종속) ---
+.venv/
+.venv-*/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Node 의존성·빌드 산출물 ---
+node_modules/
+dist/
+build/
+out/
+.next/
+*.tsbuildinfo
+coverage/
+
+# --- 로컬 DB (신규 파일 대상)
+#     주의: prototype/app/erp.db 는 이미 추적 중이라 이 규칙의 영향을 받지 않는다.
+#     추적 해제하려면 별도로 'git rm --cached prototype/app/erp.db' 필요.
+*.sqlite
+*.sqlite3
+
+# --- 로그·임시 ---
+*.log
+tmp/
+.tmp/
+
+# --- OS / 에디터 ---
+.DS_Store
+__MACOSX/
+._*
+Thumbs.db
+Desktop.ini
+.idea/
+*.swp
+
+# Local SQLite DB files
+*.db
+

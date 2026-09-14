@@ -1,0 +1,16 @@
+﻿material_code,material_name,material_type,material_group,base_uom,standard_price,standard_cost,status
+FG-1001,Smart Mini Fan,FG,소형가전,EA,42000,25000,ACTIVE
+FG-1002,Portable Air Purifier,FG,소형가전,EA,89000,54000,ACTIVE
+FG-1003,USB Desk Humidifier,FG,소형가전,EA,35000,21000,ACTIVE
+FG-2001,Battery Control Module,FG,전자부품,EA,28000,16000,ACTIVE
+FG-2002,IoT Sensor Module,FG,전자부품,EA,22000,12500,ACTIVE
+RM-0001,PCB Main Board,RM,PCB,EA,9840.0,8200,ACTIVE
+RM-0002,BLDC Motor,RM,Motor,EA,13800.0,11500,ACTIVE
+RM-0003,Plastic Housing,RM,Plastic,EA,5040.0,4200,ACTIVE
+RM-0004,Battery Cell,RM,Battery,EA,8040.0,6700,ACTIVE
+RM-0005,Sensor IC,RM,IC,EA,4560.0,3800,ACTIVE
+RM-0006,Cable Harness,RM,Cable,EA,1920.0,1600,ACTIVE
+RM-0007,Filter Cartridge,RM,Consumable,EA,6360.0,5300,ACTIVE
+RM-0008,Packaging Box,RM,Packaging,EA,1080.0,900,ACTIVE
+RM-0009,USB-C Port,RM,Connector,EA,1560.0,1300,ACTIVE
+RM-0010,Screw Set,RM,Mechanical,SET,300.0,250,ACTIVE

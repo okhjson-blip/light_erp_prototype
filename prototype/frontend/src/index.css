@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+/* ui-identity.md 컬러 토큰을 Tailwind v4 @theme으로 매핑 (task-plan-frontend-react.md 참고) */
+@theme {
+  --color-brand: #2f6fed;
+  --color-brand-dark: #1e4fc7;
+  --color-brand-soft: #eaf1ff;
+
+  --color-canvas: #f5f7fa;
+  --color-card: #ffffff;
+  --color-border-default: #e5e9f0;
+
+  --color-text-primary: #1f2937;
+  --color-text-secondary: #6b7280;
+
+  --color-success: #16a34a;
+  --color-success-soft: #dcfce7;
+  --color-warning: #d97706;
+  --color-warning-soft: #fef3c7;
+  --color-danger: #dc2626;
+  --color-danger-soft: #fee2e2;
+  --color-info: #2563eb;
+  --color-info-soft: #dbeafe;
+
+  --color-role-admin: #7c3aed;
+  --color-role-sales: #2563eb;
+  --color-role-purchase: #0891b2;
+  --color-role-production: #ea580c;
+
+  --radius-card: 12px;
+  --radius-control: 8px;
+}
+
+body {
+  background: var(--color-canvas);
+  color: var(--color-text-primary);
+}

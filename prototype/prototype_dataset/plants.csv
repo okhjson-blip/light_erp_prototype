@@ -1,0 +1,6 @@
+﻿plant_code,company_code,plant_name,plant_type,timezone
+KR11,KR01,Korea Factory 1,Manufacturing,Asia/Seoul
+KR12,KR01,Korea R&D Center,R&D,Asia/Seoul
+VN11,VN01,Vietnam Factory,Manufacturing,Asia/Ho_Chi_Minh
+CN11,CN01,China Factory,Manufacturing,Asia/Shanghai
+US11,US01,USA DC,Distribution,America/Los_Angeles

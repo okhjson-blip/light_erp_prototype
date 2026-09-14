@@ -1,0 +1,7 @@
+﻿customer_code,customer_name,country,customer_group,currency,credit_limit,payment_terms
+CUST-001,Samsung Global,KR,Strategic,KRW,5000000000,NET60
+CUST-002,LG Home Appliance,KR,Strategic,KRW,3500000000,NET45
+CUST-003,Hyundai Electronics,KR,Key,KRW,1800000000,NET45
+CUST-004,BestBuy US,US,Retail,USD,2500000,NET60
+CUST-005,ASEAN Home Retail,VN,Retail,USD,1200000,NET30
+CUST-006,Japan Components Trading,JP,Distributor,JPY,180000000,NET45

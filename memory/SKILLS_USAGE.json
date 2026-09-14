@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "description": "Skill usage telemetry — AX-ERP closed-loop learning (Hermes mechanism, project-scoped)",
+    "last_updated": "2026-07-07",
+    "format_version": "1.0",
+    "note": "No hard char cap on memory/MEMORY.md (unlike hermes-cowork template) — this project's memory already exceeds the original 2,200-char limit by design."
+  },
+  "skills": {},
+  "turn_counter": 0,
+  "next_review_at_turn": 10,
+  "last_curator_run": null,
+  "archived_skills": []
+}

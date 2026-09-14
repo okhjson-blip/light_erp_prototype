@@ -1,0 +1,9 @@
+﻿vendor_code,vendor_name,country,vendor_group,lead_time_days,quality_grade,payment_terms
+VEND-001,Korea PCB Co.,KR,PCB,12,A,NET45
+VEND-002,Vietnam Plastic Mold,VN,Mold/Plastic,18,B,NET30
+VEND-003,China Semiconductor Parts,CN,IC,28,A,NET60
+VEND-004,Japan Motor Works,JP,Motor,35,A,NET60
+VEND-005,Korea Packaging,KR,Packaging,7,B,NET30
+VEND-006,Global Sensor Inc.,US,Sensor,30,A,NET60
+VEND-007,Shenzhen Battery Cell,CN,Battery,25,C,NET45
+VEND-008,Daegu Cable Harness,KR,Cable,10,A,NET30
